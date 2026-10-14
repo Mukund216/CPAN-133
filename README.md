@@ -1,6 +1,6 @@
 # Unit Converstion
 
-A short description of what this project does and who it's for.
+Unit conversion is the process of changing a measurement from one unit to another (such as inches to centimeters or hours to minutes) while keeping the same physical quantity.
 
 ## Installation 
 
